@@ -1,21 +1,20 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <div>Kof-Ano Akpadji </div>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+           <code>kofano.akpadji@vodafone.com</code> 
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
+          href="tel:+233200111391"
           rel="noopener noreferrer"
         >
-          Learn React
+          Call him
         </a>
       </header>
     </div>
