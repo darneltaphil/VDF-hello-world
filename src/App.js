@@ -9,6 +9,9 @@ function App() {
         <p>
            <code>kofano.akpadji@vodafone.com</code> 
         </p>
+        <p>
+          lotustechcloud.com
+        </p>
         <a
           className="App-link"
           href="tel:+233200111391"
